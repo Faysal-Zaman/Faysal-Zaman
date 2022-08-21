@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, **I'm Faysal Zaman**</h1>
+<h1 align="center">Hi 👋, I'm Faysal Zaman</h1>
 <h3 align="center">A passionate Flutter Programmer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Flutter Development**
