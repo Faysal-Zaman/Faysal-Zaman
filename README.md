@@ -1,4 +1,4 @@
-Hi there 👋
+Hi👋, I'm Faysal Zaman
 
 - 🔭 I’m currently working on Flutter Development
 - 🌱 I’m currently learning Flutter, Graphic Designing, Programming
